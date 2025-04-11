@@ -5,7 +5,7 @@ language: en
 license: cc-by-4.0
 tags:
 - text-classification
-repo: https://github.com/Zora-xiaofu/COMP34812-ED-BILSTM
+repo: https://github.com/Zora-xiaofu/COMP34812_ED_BILSTM_21
 
 ---
 
