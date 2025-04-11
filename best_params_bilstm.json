@@ -1,0 +1,10 @@
+{
+  "lr": 2e-05,
+  "batch_size": 16,
+  "epochs": 5,
+  "dropout": 0.1,
+  "lstm_hidden_size": 256,
+  "num_lstm_layers": 2,
+  "acc": 0.7878839014512319,
+  "f1": 0.6594418856678407
+}
